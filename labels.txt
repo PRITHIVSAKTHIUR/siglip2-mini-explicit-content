@@ -1,0 +1,9 @@
+
+# Updated labels
+labels = {
+    "0": "Anime Picture",
+    "1": "Extincing & Sensual",
+    "2": "Hentai",
+    "3": "Pornography",
+    "4": "Safe for Work"
+}
